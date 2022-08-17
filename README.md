@@ -1,10 +1,4 @@
-<a href="https://www.instagram.com/rossumovi/">
-  <img align="left" alt="Johann's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-</a>
-<a href="https://www.linkedin.com/in/rossumovi/">
-  <img align="left" alt="Johann's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<img src="https://b4dcat404.github.io/images/intro.gif" width="50%"/>
 
 ## My Statistics
 
