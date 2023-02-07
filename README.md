@@ -3,7 +3,7 @@
 ## My Statistics
 
 <br/>
-<p align="left">
+<p align="center">
   <a href="https://github.com/rossumovi/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rossumovi&show_icons=true&theme=transparent&hide_border=true" />
     <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossumovi&layout=compact&theme=transparent&hide_border=true" />
