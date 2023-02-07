@@ -6,8 +6,8 @@
 <p align="left">
   <a href="https://github.com/rossumovi/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rossumovi&show_icons=true&theme=transparent&hide_border=true" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=rossumovi&theme=github-dark-blue&hide_border=true" />
     <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossumovi&layout=compact&theme=transparent&hide_border=true" />
+    <img align="center" width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=rossumovi&theme=github-dark-blue&hide_border=true" />
   </a>
 </p>
 <br>
