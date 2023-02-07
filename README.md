@@ -5,8 +5,8 @@
 <br/>
 <p align="left">
   <a href="https://github.com/rossumovi/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rossumovi&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rossumovi&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rossumovi&show_icons=true&bg_color=00000000" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rossumovi&bg_color=00000000" />
   </a>
 </p>
 <br>
