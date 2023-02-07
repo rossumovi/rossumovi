@@ -11,4 +11,4 @@
 </p>
 <br>
 
-[![Rossumovi Trips' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rossumovi&custom_title=Rossumovi%20Trips's%20Contribution%20Graph&theme=github-compact&hide_border=true&line=0579c3&point=c58545)](https://github.com/rossumovi)
+[![Rossumovi Trips' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rossumovi&custom_title=Rossumovi%20Trips's%20Contribution%20Graph&theme=github-compact&hide_border=true&line=0579c3&point=417e87)](https://github.com/rossumovi)
