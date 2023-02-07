@@ -1,5 +1,3 @@
-<img src="https://b4dcat404.github.io/images/intro.gif" width="100%"/>
-
 ## My Statistics
 
 <br/>
