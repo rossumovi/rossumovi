@@ -55,7 +55,7 @@
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rossumovi&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-trophies.devomb.com/?username=rossumovi&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ## Contribution Snake
