@@ -20,7 +20,9 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=clojure,java,kotlin,kafka,postgres,docker,kubernetes,aws,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=clojure,java,kotlin,go,c,cpp,rust,flutter,kafka,postgres,mongodb,mysql,docker,kubernetes,aws,git,linux&theme=dark" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" />
+  <img height="48" src="https://img.shields.io/badge/RethinkDB-1f1f1f?style=for-the-badge" alt="RethinkDB" />
 </p>
 
 ## Connect
@@ -45,7 +47,7 @@
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rossumovi&show_icons=true&theme=transparent&hide_border=true" />
     <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossumovi&layout=compact&theme=transparent&hide_border=true" />
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rossumovi&custom_title=rossumovi's%20Contribution%20Graph&theme=github-compact&hide_border=true&line=0579c3&point=417e87" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=rossumovi&theme=github-dark-blue&hide_border=true" />
+    <img width="49.5%" src="https://streak-stats.demolab.com?user=rossumovi&theme=github-dark-blue&hide_border=true" />
   </a>
 </p>
 <br>
